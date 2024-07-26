@@ -194,7 +194,7 @@ body {
       rgba(46, 56, 66, 0.7),
       rgba(46, 56, 66, 0.7)
     ),
-    url("../../images/skyline.jpg");
+    url("../../images/chile_sky.jpg");
   background-size: cover;
   background-attachment: fixed, fixed;
   background-position: center, center;
@@ -3587,7 +3587,7 @@ body.is-menu-visible #menu .inner {
         rgba(46, 56, 66, 0.5),
         rgba(46, 56, 66, 0.5)
       ),
-      url("../../images/skyline.jpg");
+      url("../../images/chile_sky.jpg");
     background-size: auto, cover;
     background-position: center, center;
     margin-bottom: -6.5em;
@@ -4204,7 +4204,7 @@ body.is-preload #banner p {
         rgba(46, 56, 66, 0.7),
         rgba(46, 56, 66, 0.7)
       ),
-      url("../../images/skyline.jpg");
+      url("../../images/chile_sky.jpg");
     background-size: auto, cover;
     background-position: center, center;
     margin-top: -6.5em;
